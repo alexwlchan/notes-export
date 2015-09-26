@@ -30,4 +30,6 @@ To go in the other direction, see Steven Frank's [notes-import script](https://g
     --  * Some formatting is lost.
     --  * A note with the same title as a previously exported note will be
     --    overwritten.
+    --  * It will exported notes in the "Recently Deleted" folder which
+    --    haven't been purged from disk yet.
     --
